@@ -1,5 +1,1 @@
-<<<<<<<<< Temporary merge branch 1
-Version: 2.0-stock
-=========
-Version: 2.0-search
->>>>>>>>> Temporary merge branch 2
+Version: 2.0

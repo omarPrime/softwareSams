@@ -16,8 +16,7 @@ def list_products():
 
 
 def stock_is_valid(quantity):
-    if quantity < 0:
-        return True
+  
     return quantity >= 0
 
 

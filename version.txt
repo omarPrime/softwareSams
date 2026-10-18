@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Version: 2.0-search
-=======
+<<<<<<<<< Temporary merge branch 1
 Version: 2.0-stock
->>>>>>> feature-stock-validation
+=========
+Version: 2.0-search
+>>>>>>>>> Temporary merge branch 2
